@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
 [Linux](linux.html)
+[MariaDB](linux.html)
+[Java](linux.html)
+[Intellij IDEA](linux.html)
+[Python](linux.html)
+[Vue.js](linux.html)
 
 You can use the [editor on GitHub](https://github.com/yuanzicheng/yuanzicheng.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
