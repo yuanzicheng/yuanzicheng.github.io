@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 
-[Linux](linux.html)
-[MariaDB](linux.html)
+###[Linux](linux.html)
+###[MariaDB](linux.html)
 [Java](linux.html)
 [Intellij IDEA](linux.html)
 [Python](linux.html)
